@@ -1,0 +1,17 @@
+# ✅ Official Agent Development Kit
+google-adk
+google-generativeai
+
+# FastAPI & ASGI server
+fastapi==0.110.2
+uvicorn==0.29.0
+
+# Env management
+python-dotenv==1.0.1
+
+# Gemini API (Free Model)
+google-generativeai==0.5.2
+
+# Utils
+requests==2.31.0
+pydantic==2.7.1
